@@ -1,7 +1,4 @@
-# Web Visualization Dashboard (Latitude-WeatherPy)
-## Data Visualization: https://syu2017.github.io/Latitude--Web-Visualization-Dashboard--HTML-Bootstrap/
 
-#  Latitude - Latitude Analysis Dashboard 
 
 
 ![picture](web.png)
@@ -39,10 +36,7 @@
        Your site is published at https://syu2017.github.io/Week12-Web-Visualization-Dashboard-Lattitude--HTML-Bootstrap/
        
 
-4. Help:  How to make bootstrap dropdown to work: (from https://stackoverflow.com/)
-       
-       "the simplest way to do this ist just copy and past the CDN of bootstrap link that can be found in https://www.bootstrapcdn.com/ and the Jquery CDN Scripts that can be found here https://code.jquery.com/ and after you copy the links, the bootstrap links paste on the head of HTML and the Jquery Script paste in body of HTML like the example below:"
-
+---
     <!DOCTYPE html>
     <html>
       <head>
