@@ -31,10 +31,7 @@
 
        HTML, style.css, output_data/fig, output_data/cities.csv, assets/css, assets/js
 
-3. GitHub Pages is designed to host your personal, organization, or project pages from a GitHub repository.
 
-       Your site is published at https://syu2017.github.io/Week12-Web-Visualization-Dashboard-Lattitude--HTML-Bootstrap/
-       
 
 ---
     <!DOCTYPE html>
